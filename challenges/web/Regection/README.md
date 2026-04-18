@@ -1,5 +1,5 @@
 # Rejection
-
+https://github.com/Shellmates/BSides-Algiers-2025-challenges/tree/main/web/Regection
 ## Write-up
 The flag has two parts: the first part is in the VIP search feature at `/internal/vip_search`, and the second part is the username of the Instagram account used to test the Instagram social media bot at `/social_media_bot`.
 
